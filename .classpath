@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.ibm.ive.j9.containers.J2ME_CONTAINER/2.2.0/ppro10"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jars/j2me_rpc_ri.jar"/>
+	<classpathentry kind="lib" path="jars/j2me_sg_ri.jar"/>
+	<classpathentry kind="lib" path="jars/j2me_xml_ri.jar"/>
+	<classpathentry kind="lib" path="jars/schema2beansdev.jar"/>
+	<classpathentry kind="lib" path="jars/WebServicesME.jar"/>
+	<classpathentry kind="lib" path="jars/db2ejdbc.jar"/>
+	<classpathentry kind="lib" path="jars/jdbc.jar"/>
+	<classpathentry kind="lib" path="D:/TDDOWNLOAD/eclipse/Libraries/java-rt-jar-stubs-1.5.0.jar" sourcepath="jars"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
